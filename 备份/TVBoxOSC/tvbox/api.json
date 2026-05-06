@@ -1,6 +1,6 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+    "wallpaper": "https://veil.ortlinde.com/v1/random",
     "logo": "https://raw.githubusercontent.com/yuanwangokk-1/subscribe/refs/heads/main/picture/V51.png",
     "sites": [
         {
